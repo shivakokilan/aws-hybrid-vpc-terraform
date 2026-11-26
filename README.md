@@ -1,5 +1,5 @@
 # AWS Hybrid Cloud & Multi-AZ Infrastructure (Terraform)
-
+[![Terraform CI Validation](https://github.com/shivakokilan/aws-hybrid-vpc-terraform/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/shivakokilan/aws-hybrid-vpc-terraform/actions/workflows/terraform-validate.yml)
 Production-ready Infrastructure as Code (IaC) template provisioning a secure, multi-AZ AWS network architecture with hybrid on-premises VPN connectivity, KMS encryption, and automated S3 FinOps cost-optimization lifecycle policies.
 
 ## Architecture Overview
